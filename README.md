@@ -1,1 +1,1 @@
-# Estudio de estructuras de bandaprohibida electromagn ́etica (EBG) parala reducci ́on de acoplamiento mutuoentre antenas microstrip
+# Estudio de estructuras de banda prohibida electromagnética (EBG) parala reducción de acoplamiento mutuo entre antenas microstrip
